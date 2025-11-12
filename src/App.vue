@@ -952,7 +952,7 @@ onUnmounted(() => {
       <div class="container mx-auto px-4 py-4">
         <div class="flex items-center justify-center gap-4 text-sm text-muted-foreground">
           <span>© {{ new Date().getFullYear() }}-{{ new Date().getFullYear() + 10 }}</span>
-          <a href="https://dm.xueximeng.com/" target="_blank" rel="noopener noreferrer" class="hover:text-foreground transition-colors">资源共建</a>
+          <a href="#" target="_blank" rel="noopener noreferrer" class="hover:text-foreground transition-colors">资源共建</a>
           <a href="/report.html" target="_blank" rel="noopener noreferrer" class="hover:text-foreground transition-colors">实时监控</a>
           <a href="https://github.com/fish2018" target="_blank" rel="noopener noreferrer" class="hover:text-foreground transition-colors">
             <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 16 16">
